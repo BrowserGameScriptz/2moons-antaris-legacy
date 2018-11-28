@@ -1,0 +1,121 @@
+					
+					<table align="center" border="0" cellpadding="0" cellspacing="0" width="580">
+						<tbody><tr>
+							<td bgcolor="#ffffff" width="100%">
+								
+								<table align="left" border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td style="padding:10px 20px">
+											<img class="CToWUd" src="http://antaris-univers.com/image/graphic_charter/newsletter_title.jpg" alt="Antaris Legacy Email" border="0">
+										</td>
+									</tr>
+								</tbody></table>
+								
+								
+								
+								<table align="right" border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td style="font-size:13px;color:#272727;font-weight:light;text-align:right;font-family:Georgia,Times,serif;line-height:20px;vertical-align:middle;padding:10px 20px;font-style:italic">
+											<a href="http://antaris-univers.com/" style="text-decoration:none;color:#3b3b3b" target="_blank">Access the site</a>
+											&nbsp;&nbsp;&nbsp;
+											<a href="http://antaris-univers.com/index.php?page=disclamer" style="text-decoration:none;color:#3b3b3b" target="_blank">Contact</a>
+										</td>
+									</tr>
+								</tbody></table>
+								
+							</td>
+						</tr>
+					</tbody></table>
+					
+					
+					
+					<table align="center" bgcolor="#eeeeed" border="0" cellpadding="0" cellspacing="0" width="580">
+						
+						<tbody><tr>
+							<td style="padding:0" bgcolor="#ffffff" valign="top">
+								<img tabindex="0" class="CToWUd a6T" src="http://antaris-univers.com/styles/images/login/graphic_charter/newsletter_logo.jpg" alt="Logo Antaris Legacy" style="display:block;border-radius:4px" border="0">		
+							</td>
+						</tr>
+						
+
+						
+						<tr>
+							<td style="font-size:13px;color:#757575;font-weight:normal;text-align:left;font-family:Georgia,Times,serif;line-height:18px;vertical-align:top;padding:10px 8px 10px 8px" bgcolor="#eeeeed"> 
+								<table>
+									<tbody><tr>
+										<td style="padding:0 10px 5px 0" valign="middle">
+											<span style="text-decoration:none;color:#272727;font-size:16px;font-weight:bold">
+												Inscription sur le portail Antaris Legacy										</span>
+										</td>
+									</tr>
+								</tbody></table>
+	
+								<p style="text-align:right;width:100%">
+	{DATE}</p>	
+
+<p style="text-align:left;width:100%">
+	Sir, Madam,<br><br>
+
+	<em>Ce message a été envoyé automatiquement, de la part d'Antaris Legacy.<br>
+Si vous vous n'êtes pas inscrit de vous-même, veuillez nous contacter en nous transmettant l'adresse IP suivante : {IP}. </em></p>
+<strong>Votre inscription sur le portail Antaris Legacys (1.1) a été prise en considération.</strong><br>
+<br></em>
+</p>
+
+<strong>Here is all the information about your account :</strong> 
+<p style="margin:0px; padding:10px 15px">— <strong>Antaris Legacy :</strong> Portal<br>
+— <strong>Username :</strong> {USERNAME}<br>
+— <strong>Email : </strong>{EMAIL}<br>
+— <strong>Validation Link : </strong>{VERTIFYURL}<br>
+</p>
+<p>If you want to delete all your personal data, please contact us at the following address : support@antaris-univers.com<br>
+<br>
+
+<p>Cordially</p>							</td>
+						</tr>              
+					</tbody></table>
+					
+
+					
+					<div style="min-height:25px">&nbsp;</div>
+
+
+					
+					<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody><tr>
+							<td style="padding:25px 0 0 0" bgcolor="#141823">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="580">
+									<tbody><tr>
+										<td>                    
+											<table align="left" border="0" cellpadding="0" cellspacing="0" width="45%">
+												<tbody><tr>
+													<td style="font-size:11px;color:#999;font-family:Arial,sans-serif;padding-bottom:25px" valign="top">
+														Why I received this email? <br>
+														1 / You are a member of the game <br>
+														2 / You registered to the Newsletter<br><br>
+
+																													
+																											</td>
+												</tr>
+											</tbody></table>
+
+											<table align="right" border="0" cellpadding="0" cellspacing="0" width="40%">
+												<tbody><tr>
+													<td style="font-size:11px;color:#999999;font-weight:normal;font-family:Georgia,Times,serif;line-height:18px;vertical-align:top;text-align:right;padding-bottom:25px" valign="top">
+														<a href="https://www.facebook.com/Antaris-Legacy-1053081971434891" target="_blank" >
+															<img class="CToWUd" src="http://antaris-univers.com/styles/images/login/graphic_charter/newsletter_fb.jpg" alt="Facebook" title="Facebook" border="0" height="42" width="42">
+														</a>
+														<br><span class="HOEnZb"><font color="#888888">
+
+														<a href="http://antaris-univers.com" style="text-decoration:none;color:#848484;font-weight:normal" target="_blank">
+															Antaris Legacy														</a>
+													</font></span></td>
+												</tr>
+											</tbody></table>   
+										</td>
+									</tr>
+								</tbody></table>                                                              		
+							</td>
+						</tr>
+					</tbody></table>
+							

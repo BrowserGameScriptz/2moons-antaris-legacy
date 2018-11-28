@@ -1,0 +1,100 @@
+﻿[09-Oct-2017 01:15:56] NOTICE: "session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13)"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/includes/classes/class.Session.php | Line: 107
+URL: https://horizon.antaris-legacy.eu/requete_json.php?obtenir=information_actualisation&securite_cle=zI85DfBGGf80NlhI96gd4fdNbYhQXumNmislA2f73BAlNYwnP1ZnAVotsHyLKCAcEjOlo7lJyfr0hdZy9G18Yg | Version: 1.0
+PLAYER USERNAME: 
+Stack trace:
+#0 [internal function]: errorHandler(8, 'session_start()...', '/var/www/vhosts...', 107, Array)
+#1 /includes/classes/class.Session.php(107): session_start()
+#2 /includes/common.php(126): Session-&gt;isActiveSession()
+#3 /requete_json.php(7): require('/var/www/vhosts...')
+#4 {main}
+[09-Oct-2017 01:16:25] NOTICE: "session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13)"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/includes/classes/class.Session.php | Line: 107
+URL: https://horizon.antaris-legacy.eu/game.php?page=overview | Version: 1.0
+PLAYER USERNAME: 
+Stack trace:
+#0 [internal function]: errorHandler(8, 'session_start()...', '/var/www/vhosts...', 107, Array)
+#1 /includes/classes/class.Session.php(107): session_start()
+#2 /includes/common.php(126): Session-&gt;isActiveSession()
+#3 /game.php(35): require('/var/www/vhosts...')
+#4 {main}
+[10-Oct-2017 20:55:32] NOTICE: "session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13)"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/includes/classes/class.Session.php | Line: 107
+URL: https://horizon.antaris-legacy.eu/cronjob.php?cronjobID=16 | Version: 1.0
+PLAYER USERNAME: 
+Stack trace:
+#0 [internal function]: errorHandler(8, 'session_start()...', '/var/www/vhosts...', 107, Array)
+#1 /includes/classes/class.Session.php(107): session_start()
+#2 /cronjob.php(39): Session-&gt;isActiveSession()
+#3 {main}
+[02-Dec-2017 11:21:35] NOTICE: "Use of undefined constant MODULE_INFORMATION - assumed 'MODULE_INFORMATION'"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/game.php | Line: 49
+URL: https://horizon.antaris-legacy.eu/game.php?page=information&id=210 | Version: 1.0
+PLAYER USERNAME: Skyld
+Stack trace:
+#0 /game.php(49): errorHandler(8, 'Use of undefine...', '/var/www/vhosts...', 49, Array)
+#1 {main}
+[02-Dec-2017 11:21:59] NOTICE: "Use of undefined constant MODULE_INFORMATION - assumed 'MODULE_INFORMATION'"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/game.php | Line: 49
+URL: https://horizon.antaris-legacy.eu/game.php?page=information&id=144 | Version: 1.0
+PLAYER USERNAME: Skyld
+Stack trace:
+#0 /game.php(49): errorHandler(8, 'Use of undefine...', '/var/www/vhosts...', 49, Array)
+#1 {main}
+[02-Dec-2017 11:24:00] NOTICE: "Use of undefined constant MODULE_INFORMATION - assumed 'MODULE_INFORMATION'"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/game.php | Line: 49
+URL: https://horizon.antaris-legacy.eu/game.php?page=information&id=31 | Version: 1.0
+PLAYER USERNAME: Skyld
+Stack trace:
+#0 /game.php(49): errorHandler(8, 'Use of undefine...', '/var/www/vhosts...', 49, Array)
+#1 {main}
+[07-Dec-2017 16:05:55] NOTICE: "session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13)"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/includes/classes/class.Session.php | Line: 75
+URL: https://horizon.antaris-legacy.eu/check.php?referralID=0&email=tode1@hotmail.it&username=odiabile&lang=it&userId=8&encodingplayer=ae6802b444b4e8b975ff92c3b0e6cedd&homeplanet=odiabile&password=40c40eaa1fe2d30abc6980e477dfb419 | Version: 1.0
+PLAYER USERNAME: 
+Stack trace:
+#0 [internal function]: errorHandler(8, 'session_start()...', '/var/www/vhosts...', 75, Array)
+#1 /includes/classes/class.Session.php(75): session_start()
+#2 /check.php(176): Session::create('8')
+#3 {main}
+[15-Jan-2018 21:37:19] NOTICE: "Use of undefined constant MODULE_INFORMATION - assumed 'MODULE_INFORMATION'"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/game.php | Line: 49
+URL: https://horizon.antaris-legacy.eu/game.php?page=information&id=113 | Version: 1.0
+PLAYER USERNAME: wabbelbomber
+Stack trace:
+#0 /game.php(49): errorHandler(8, 'Use of undefine...', '/var/www/vhosts...', 49, Array)
+#1 {main}
+[15-Jan-2018 21:37:28] NOTICE: "Use of undefined constant MODULE_INFORMATION - assumed 'MODULE_INFORMATION'"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/game.php | Line: 49
+URL: https://horizon.antaris-legacy.eu/game.php?page=information&id=142 | Version: 1.0
+PLAYER USERNAME: wabbelbomber
+Stack trace:
+#0 /game.php(49): errorHandler(8, 'Use of undefine...', '/var/www/vhosts...', 49, Array)
+#1 {main}
+[15-Jan-2018 21:38:36] NOTICE: "Use of undefined constant MODULE_INFORMATION - assumed 'MODULE_INFORMATION'"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/game.php | Line: 49
+URL: https://horizon.antaris-legacy.eu/game.php?page=information&id=113 | Version: 1.0
+PLAYER USERNAME: wabbelbomber
+Stack trace:
+#0 /game.php(49): errorHandler(8, 'Use of undefine...', '/var/www/vhosts...', 49, Array)
+#1 {main}
+[30-Jan-2018 21:31:16] NOTICE: "session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13)"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/includes/classes/class.Session.php | Line: 107
+URL: https://horizon.antaris-legacy.eu/requete_json.php?obtenir=information_actualisation&securite_cle=zI85DfBGGf80NlhI96gd4fdNbYhQXumNmislA2f73BAlNYwnP1ZnAVotsHyLKCAcEjOlo7lJyfr0hdZy9G18Yg | Version: 1.0
+PLAYER USERNAME: 
+Stack trace:
+#0 [internal function]: errorHandler(8, 'session_start()...', '/var/www/vhosts...', 107, Array)
+#1 /includes/classes/class.Session.php(107): session_start()
+#2 /includes/common.php(126): Session-&gt;isActiveSession()
+#3 /requete_json.php(7): require('/var/www/vhosts...')
+#4 {main}
+[31-Jan-2018 01:32:58] NOTICE: "session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13)"
+File: /var/www/vhosts/antaris-legacy.eu/httpdocs/universe/horizon/includes/classes/class.Session.php | Line: 107
+URL: https://horizon.antaris-legacy.eu/requete_json.php?obtenir=information_actualisation&securite_cle=zI85DfBGGf80NlhI96gd4fdNbYhQXumNmislA2f73BAlNYwnP1ZnAVotsHyLKCAcEjOlo7lJyfr0hdZy9G18Yg | Version: 1.0
+PLAYER USERNAME: 
+Stack trace:
+#0 [internal function]: errorHandler(8, 'session_start()...', '/var/www/vhosts...', 107, Array)
+#1 /includes/classes/class.Session.php(107): session_start()
+#2 /includes/common.php(126): Session-&gt;isActiveSession()
+#3 /requete_json.php(7): require('/var/www/vhosts...')
+#4 {main}
